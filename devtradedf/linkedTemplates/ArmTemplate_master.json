@@ -25,7 +25,7 @@
 		},
 		"HttpServer1_properties_typeProperties_url": {
 			"type": "string",
-			"defaultValue": "linkedService/prodblob.json"
+			"defaultValue": "https://github.com/Tulagapu/First/tree/main"
 		},
 		"HttpServer1_properties_typeProperties_userName": {
 			"type": "string",

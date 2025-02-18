@@ -18,7 +18,7 @@
 			"value": "Tulagapu"
 		},
 		"HttpServer1_properties_typeProperties_url": {
-			"value": "linkedService/prodblob.json"
+			"value": "https://github.com/Tulagapu/First/tree/main"
 		},
 		"HttpServer1_properties_typeProperties_userName": {
 			"value": "Tulagapu"
